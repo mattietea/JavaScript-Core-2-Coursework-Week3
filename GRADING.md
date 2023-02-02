@@ -7,6 +7,8 @@ Update Instructions: https://gist.github.com/ChrisOwen101/84d82f03a60ce19f7f154a
 
 # Grading
 
+Test
+
 All coursework is graded using the Marking Guide found on the Syllabus.
 
 http://syllabus.codeyourfuture.io/guides/marking-guide
